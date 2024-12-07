@@ -1,0 +1,10 @@
+com\boc\service\exceptions\BSLException.class
+com\boc\ws\CreateCaseBaseImpl.class
+com\boc\utils\CripUtils.class
+com\boc\response\ResponseBean.class
+com\boc\service\impl\CheckSecurityService.class
+com\boc\utils\PropertyReader.class
+com\boc\ws\CreateCaseWsImpl.class
+com\boc\connector\CMConnector.class
+com\boc\aspectj\CheckSecurityAspectJointPoint.class
+com\boc\response\UserBranchRs.class
